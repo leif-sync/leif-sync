@@ -24,17 +24,17 @@ Actualmente, estoy profundizando en **Node.js**, **TypeScript** y patrones como 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JsonWebtoken](https://img.shields.io/badge/jsonwebtoken-green)
-![node-cron](https://img.shields.io/badge/nodeCron-gray)
-![Zod](https://img.shields.io/badge/Zod-blue)
+![JSON Web Tokens](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-00508C?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### 🧪 Testing & Calidad
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 ![SuperTest](https://img.shields.io/badge/supertest-cyan)
 
 #### ☁️ Cloud & Herramientas
-![Cloudinary](https://img.shields.io/badge/Cloudinary-cyan)
-![Resend](https://img.shields.io/badge/Resend-black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary)
+![Resend](https://img.shields.io/badge/Resend-black?style=for-the-badge&logo=resend)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
