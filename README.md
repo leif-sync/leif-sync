@@ -30,7 +30,7 @@ Actualmente, estoy profundizando en **Node.js**, **TypeScript** y patrones como 
 
 #### 🧪 Testing & Calidad
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![SuperTest](https://img.shields.io/badge/supertest-cyan)
+![SuperTest](https://img.shields.io/badge/supertest-cyan?style=for-the-badge)
 
 #### ☁️ Cloud & Herramientas
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-blue?style=for-the-badge&logo=cloudinary)
